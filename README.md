@@ -73,12 +73,7 @@ Das Skript enthält mehrere eingebaute Kontrollen:
   (eines der beiden Ereignisse – Tod oder Überleben – tritt in einem Jahr sicher ein),
   geprüft mit `all.equal()`
 
-## Motivation
 
-Das Projekt entstand als Vorbereitung auf eine Bewerbung als Junior Mathematiker
-im Bereich Lebensversicherung, um versicherungsmathematische Konzepte aus dem
-Studium (Barwertrechnung, Äquivalenzprinzip, Sterbetafeln) praktisch in R
-umzusetzen und mit echten Daten zu testen.
 
 ## Geplante Erweiterungen
 
