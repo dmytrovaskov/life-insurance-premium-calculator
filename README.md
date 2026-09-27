@@ -77,6 +77,6 @@ Das Skript enthält mehrere eingebaute Kontrollen:
 
 ## Geplante Erweiterungen
 
-- VBA/Excel-Version als Frontend für den Vertrieb
+- VBA/Excel-Version als Frontend (z.B. für den Vertrieb)
 - Berücksichtigung eines Sicherheitszuschlags
 - Deckungskapitalberechnung während der Laufzeit
