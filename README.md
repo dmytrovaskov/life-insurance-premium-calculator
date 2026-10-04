@@ -31,7 +31,7 @@ Abschnitt "Tests" unten).
 
 Die verwendete Sterbetafel stammt von der Statistik Austria:
 [Ausführliche allgemeine und ausgeglichene Sterbetafeln](https://www.statistik.at/),
-verwendet wird das Tabellenblatt `2020_2022_männlich`.
+verwendet wird das Tabellenblatt `2020_2022_weiblich`.
 
 | Spalte | Bedeutung |
 |---|---|
