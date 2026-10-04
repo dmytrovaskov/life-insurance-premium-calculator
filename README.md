@@ -102,12 +102,6 @@ Beide Implementierungen wurden unter anderem gegen folgende Kontrollen geprüft:
 Eine konkrete Testdokumentation mit Beispielwerten (60-jährige Person, Laufzeiten
 1–3 Jahre, Summe 70.000 €) liegt als Screenshot im Ordner `VBA/` bei.
 
-## Motivation
-
-Das Projekt entstand als Vorbereitung auf eine Bewerbung als Junior Mathematiker
-im Bereich Lebensversicherung, um versicherungsmathematische Konzepte aus dem
-Studium (Barwertrechnung, Äquivalenzprinzip, Sterbetafeln) praktisch umzusetzen,
-sowohl in R als auch in VBA, und mit echten Daten gegen Handrechnungen zu testen.
 
 ## Geplante Erweiterungen
 
